@@ -36,7 +36,7 @@
 
 ---
 
-## ✨ Connect With Me
+## 📲 Let's Connect 
 
 <p>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
