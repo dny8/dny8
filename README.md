@@ -1,16 +1,51 @@
-## Hi, I'm Danny 👋
+<h1 align="center" style="color:white;">
+ Hi, I'm Danny ✨
+</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dvmurray) 
-
-# 💻 Tech Stack:
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dny8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dny8&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dny8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&center=true&vCenter=true&lines=Digital+Creator;Workflow+Architect;Productivity+Nerd;Coffee-powered+Builder" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dny8&icon=3&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🖤 About Me
+
+- Passionate about simple tools with high impact  
+- I build digital systems that don’t just *look* good—they work  
+- Always hunting for the balance between minimalism and function
+
+---
+
+## 🛠️ Toolbelt
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-000000?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 🔥 Current Projects
+
+- **ZenDash** – A digital dashboard for creators
+- **Focus Weekly** – Your brain, but printable
+- **Tiny Habits Toolkit** – Micro tools, macro results
+
+---
+
+## ✨ Connect With Me
+
+<p>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_title=true" />
+</p>
