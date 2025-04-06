@@ -1,5 +1,5 @@
 <h1 align="center" style="color:white;">
- Hi, I'm Danny ✨
+ ✨Welcome✨
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-## 🖤 About Me
+## 🖤 Hi, I'm Danny
 
 - Passionate about simple tools with high impact  
 - I build digital systems that don’t just *look* good—they work  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Toolbelt
+## 💻 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
