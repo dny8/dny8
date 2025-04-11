@@ -4,9 +4,9 @@
 
 ## 🌸 Hi, I'm Danny
 
-🌸 Passionate about simple tools with high impact <b/r> 
-🌸 I build digital systems that don’t just *look* good—they work  <b/r>
-🌸 Always hunting for the balance between minimalism and function <b/r>
+🌸 Passionate about simple tools with high impact 
+🌸 I build digital systems that don’t just *look* good—they work  
+🌸 Always hunting for the balance between minimalism and function 
 
 
 
