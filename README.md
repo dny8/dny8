@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&center=true&vCenter=true&lines=Digital+Creator;Workflow+Architect;Productivity+Nerd;Coffee-powered+Builder" />
 </p>
 
-## 🌸 Hi, I'm Danny
+## 🌸 Hi, I'm Danielle 
 
 🌸 Passionate about simple tools with high impact 
 🌸 I build digital systems that don’t just *look* good—they work  
